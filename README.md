@@ -1,0 +1,1 @@
+# LD-02-int-JavaEssentialTrainingSyntaxAndStructure
